@@ -1,0 +1,29 @@
+.content{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+}
+
+.content-img > img {
+    max-width: 700px;
+    margin-top: 40px;
+    margin-bottom: 20px;
+    border: 1px solid rgba(255, 255, 255, 0.514);
+}
+
+.content-description {
+    margin-top: 20px;
+    color: #dbdada66;
+    text-align: center;
+}
+
+button {
+    margin-top: 40px;
+    background-color: gray;
+    color:white;
+    font-weight: bold;
+    padding: 20px;
+    font-size: 20px;
+    border-radius: 10px;
+}

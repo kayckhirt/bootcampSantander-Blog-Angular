@@ -1,0 +1,9 @@
+.title {
+    display: flex;
+    justify-content: center;
+    align-self: center;
+    font-size: 170px;
+    width: 100%;
+    border-top: 1px solid #666666ff;
+  border-bottom: 1px solid #666666ff;
+}

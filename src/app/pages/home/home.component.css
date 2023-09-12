@@ -1,0 +1,8 @@
+.content-cards {
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+}
+.big {
+    width: 100%;
+}
